@@ -12,6 +12,7 @@ In this project, in order to detect and classify Alzheimer’s Disease we are us
 The overall classification accuracy resulted from our model is 96.58%, which was more than the VGG-16 and VGG-19 models which were 92.38% and 92.09% respectively. Also we optimized our CNN model and got the accuracy 97.55%.
 
 ## Validation Accuracy Comparison:
-
+![](info/validation%20accuracy.png)
 
 ## Validation Loss Comparison:
+![](info/loss.png)
