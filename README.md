@@ -16,3 +16,6 @@ The overall classification accuracy resulted from our model is 96.58%, which was
 
 ## Validation Loss Comparison:
 ![](info/loss.png)
+
+## Web Application:
+![](info/webApp.png)
