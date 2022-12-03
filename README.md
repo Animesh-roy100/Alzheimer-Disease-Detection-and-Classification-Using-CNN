@@ -15,10 +15,10 @@
 In this project, in order to detect and classify Alzheimer’s Disease we are using our own CNN model and comparing it with other pre-trained models such as VGG-16 and VGG-19 and comparing their efficiency to classify Alzheimer's Disease(AD).
 The overall classification accuracy resulted from our model is 96.58%, which was more than the VGG-16 and VGG-19 models which were 92.38% and 92.09% respectively. Also we optimized our CNN model and got the accuracy 97.55%.
 
-## Validation Accuracy Comparison:
+## Validation Accuracy Comparison in Percentage:
 ![](info/validation%20accuracy.png)
 
-## Validation Loss Comparison:
+## Validation Loss Comparison in Percentage:
 ![](info/loss.png)
 
 ## Web Application:
