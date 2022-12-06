@@ -8,6 +8,8 @@
 3. Non Dementia
 4. Very Mild Dementia
 
+### Dataset: https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
+
 ### Technologies Used:
 1. Flask for web application
 2. CNN 
